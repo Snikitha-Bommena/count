@@ -1,2 +1,3 @@
-<h1>Hello</h1>
-<p>This is a file</p>
+Version contol system will help in doing the things with an ease.It is also known as Source code management, Revisionn control system.Few main features of version control system are collaboration,tracking the changes,feature branching etc.It tracks and manages a filesystem.It has 2 architectures named centralized VCS, distributed VCS.
+It tracks actions done in a source code so that we can easily find something that we wish to modify and also we will get to know the things happening in that source code.While using a VCS Collaberatively,an instance of sourcecopy is given to the required members to do their owm modifications and he remote VCS instance will have a copy.To remove dependency between features we can use branches.
+A hosted VCS service can also provide some extra features like Extended 3re party integration,Team communication,Measuring tools,CI/CP pipeline automation.Few Version Control Softwares are git,mercurial,SVN,CVN,preforce etc.
